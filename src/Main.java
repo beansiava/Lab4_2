@@ -48,7 +48,7 @@ public class Main {
             } else {
                 System.out.println("Keep driving!  Your current estimated range is: " + rawRange + " miles!");
             }
-            iterations += 1;
+            iterations += 2;
         }
     }
 }
